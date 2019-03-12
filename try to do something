@@ -1,0 +1,3 @@
+#include<stdio>
+using name space std
+print<<nothing<<done
